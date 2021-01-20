@@ -12,15 +12,15 @@
         </trans-unit>
         <trans-unit id="AirplaneMode.NotAvailable" translate="yes" xml:space="preserve">
           <source>Airplane mode is not available :(</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Режим польоту недоступний :(</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Режим "У літаку" недоступний :(</target>
         </trans-unit>
         <trans-unit id="AirplaneModeOff" translate="yes" xml:space="preserve">
           <source>Airplane mode off</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Режим "у літаку" вимкнуто</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Режим "У літаку" вимкнено</target>
         </trans-unit>
         <trans-unit id="AirplaneModeOn" translate="yes" xml:space="preserve">
           <source>Airplane mode on</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Режим "у літаку" ввімкнуто</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Режим "У літаку" ввімкнено</target>
         </trans-unit>
         <trans-unit id="Align" translate="yes" xml:space="preserve">
           <source>Align to default position</source>
@@ -48,7 +48,7 @@
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.InsertMode" translate="yes" xml:space="preserve">
           <source>Insert Mode</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Швидке вставлення</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Режим вставки</target>
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.KeyIsOff" translate="yes" xml:space="preserve">
           <source>{0} is off</source>
@@ -57,7 +57,7 @@
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.KeyIsOn" translate="yes" xml:space="preserve">
           <source>{0} is on</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">{0} на</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{0} ввімкнено</target>
           <note from="MultilingualBuild" annotates="source" priority="2">E.g. Caps lock is on</note>
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.OvertypeMode" translate="yes" xml:space="preserve">
@@ -80,7 +80,7 @@
         </trans-unit>
         <trans-unit id="PointValidationRule.StringConvertionErrorMessage" translate="yes" xml:space="preserve">
           <source>Value cannot be coverted to string.</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Значення не можна покрити рядком.</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Значення не можна перетворити на рядок.</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Error message shown when there is problem in converting an object into a string</note>
         </trans-unit>
         <trans-unit id="RestoreDefaultItem" translate="yes" xml:space="preserve">
@@ -129,7 +129,7 @@
         </trans-unit>
         <trans-unit id="SessionControl.ShuffleOn" translate="yes" xml:space="preserve">
           <source>Shuffle: on</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Перемішування: на</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Перемішування: ввімкнено</target>
         </trans-unit>
         <trans-unit id="SessionControl.Stop" translate="yes" xml:space="preserve">
           <source>Stop</source>
@@ -137,11 +137,11 @@
         </trans-unit>
         <trans-unit id="SessionControl.TimelineInfo" translate="yes" xml:space="preserve">
           <source>Timeline Info</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Відомості про часової шкали</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Інформація про часову шкалу</target>
         </trans-unit>
         <trans-unit id="Settings.Additional" translate="yes" xml:space="preserve">
           <source>Additional</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Додатковий</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Додаткові</target>
         </trans-unit>
         <trans-unit id="Settings.Behavior" translate="yes" xml:space="preserve">
           <source>Behavior</source>
@@ -153,11 +153,11 @@
         </trans-unit>
         <trans-unit id="Settings.DefaultFlyoutDescription" translate="yes" xml:space="preserve">
           <source>Select the default flyout</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Виберіть виліт за замовчуванням</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Виберіть Виліт за замовчуванням</target>
         </trans-unit>
         <trans-unit id="Settings.DefaultFlyoutWarningMessage" translate="yes" xml:space="preserve">
           <source>Choosing the Windows Default Flyout as default won't close this app. This app will still keep running in the background. Please exit this app safely to improve performance.</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Вибір обльоту Windows за промовчанням не закриє цю програму. Ця програма буде як і раніше працювати у фоновому режимі. Будь ласка, закрийте цю програму безпечно, щоб підвищити продуктивність.</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Вибір вильоту за замовчуванням Windows не закриє цю програму. Ця програма буде як і раніше працювати у фоновому режимі. Будь ласка, безпечно закрийте цю програму, щоб підвищити продуктивність.</target>
         </trans-unit>
         <trans-unit id="Settings.Disabled" translate="yes" xml:space="preserve">
           <source>Disabled</source>
@@ -165,15 +165,15 @@
         </trans-unit>
         <trans-unit id="Settings.Enabled" translate="yes" xml:space="preserve">
           <source>Enabled</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Увімкнуто</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ввімкнено</target>
         </trans-unit>
         <trans-unit id="Settings.FlyoutBackgroundOpacity" translate="yes" xml:space="preserve">
           <source>Flyout background opacity</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Непрозорість тла польоту</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Непрозорість тла Вильоту</target>
         </trans-unit>
         <trans-unit id="Settings.FlyoutDefaultPosition" translate="yes" xml:space="preserve">
           <source>Flyout default position</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Положення за замовчуванням вилітає (для кнопки Вирівняти)</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Положення Вильоту за замовчуванням (для кнопки Вирівняти)</target>
         </trans-unit>
         <trans-unit id="Settings.FlyoutDefaultPositionDescription" translate="yes" xml:space="preserve">
           <source>Type the position in 'X,Y' format (Default: 50,60)</source>
@@ -182,7 +182,7 @@
         </trans-unit>
         <trans-unit id="Settings.FlyoutTopBar" translate="yes" xml:space="preserve">
           <source>Flyout TopBar</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Топ-панель польоту</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Верхня панель Вильоту</target>
         </trans-unit>
         <trans-unit id="Settings.Modules" translate="yes" xml:space="preserve">
           <source>Flyout Modules</source>
@@ -190,23 +190,23 @@
         </trans-unit>
         <trans-unit id="Settings.Modules.Airplane" translate="yes" xml:space="preserve">
           <source>Airplane mode</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Модуль польоту літакаМод-польоту</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Режим "У літаку"</target>
         </trans-unit>
         <trans-unit id="Settings.Modules.Audio" translate="yes" xml:space="preserve">
           <source>Audio</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Модуль аудіо-польоту</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Модуль вильоту аудіо</target>
         </trans-unit>
         <trans-unit id="Settings.Modules.Brightness" translate="yes" xml:space="preserve">
           <source>Brightness</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Модуль яскравості польоту</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Модуль вильоту яскравості</target>
         </trans-unit>
         <trans-unit id="Settings.Modules.LockKeys" translate="yes" xml:space="preserve">
           <source>Lock keys</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Модуль виліту lockKeys</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Модуль вильоту клавіш блокування</target>
         </trans-unit>
         <trans-unit id="Settings.RunAtStartup" translate="yes" xml:space="preserve">
           <source>Run at startup</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Запуск під час запуску</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Запускатися разом з системою</target>
         </trans-unit>
         <trans-unit id="SettingsItem" translate="yes" xml:space="preserve">
           <source>Settings</source>
@@ -222,7 +222,7 @@
         </trans-unit>
         <trans-unit id="Enums.DefaultFlyout.ModernFlyouts" translate="yes" xml:space="preserve">
           <source>ModernFlyouts</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Сучасні флуаути</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Сучасні Вильоти</target>
         </trans-unit>
         <trans-unit id="Enums.DefaultFlyout.None" translate="yes" xml:space="preserve">
           <source>None</source>
@@ -230,7 +230,7 @@
         </trans-unit>
         <trans-unit id="Enums.DefaultFlyout.WindowsDefault" translate="yes" xml:space="preserve">
           <source>Windows default</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Windows за замовчуванням</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">За замовчуванням Windows</target>
         </trans-unit>
         <trans-unit id="Enums.Orientation.Horizontal" translate="yes" xml:space="preserve">
           <source>Horizontal</source>
@@ -238,11 +238,11 @@
         </trans-unit>
         <trans-unit id="Enums.Orientation.Vertical" translate="yes" xml:space="preserve">
           <source>Vertical</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">По вертикалі</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Вертикально</target>
         </trans-unit>
         <trans-unit id="About.AppDescription" translate="yes" xml:space="preserve">
           <source>This app is designed to be a modern Fluent Design replacement for the old metro themed flyouts present in Windows since Windows 8.</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ця програма призначена для сучасної заміни fluent Design для старих тематичних вилітів метро, присутніх у Windows, починаючи з Windows 8.</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ця програма призначена для сучасної заміни старих тематичних вильотів метро, присутніх у Windows, починаючи з Windows 8 на fluent Design.</target>
         </trans-unit>
         <trans-unit id="About.Contributors" translate="yes" xml:space="preserve">
           <source>Contributors</source>
@@ -254,11 +254,11 @@
         </trans-unit>
         <trans-unit id="About.OpenNewIssue" translate="yes" xml:space="preserve">
           <source>Open a new issue</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Відкриття нової проблеми</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Відкрити нову проблему</target>
         </trans-unit>
         <trans-unit id="About.RateAndReview" translate="yes" xml:space="preserve">
           <source>Rate and Review on Microsoft Store</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Оцінити та переглянути в Магазині Microsoft</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Оцінити та залишити відгук в Магазині Microsoft</target>
         </trans-unit>
         <trans-unit id="About.Version" translate="yes" xml:space="preserve">
           <source>Version : </source>
@@ -266,15 +266,15 @@
         </trans-unit>
         <trans-unit id="Settings.Language" translate="yes" xml:space="preserve">
           <source>Language</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Мови</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Мова</target>
         </trans-unit>
         <trans-unit id="Settings.LanguageDescription" translate="yes" xml:space="preserve">
           <source>Restart required to apply language change properly</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Перезапустіть програму, щоб правильно змінити мову</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Перезапустіть програму, щоб коректно змінити мову</target>
         </trans-unit>
         <trans-unit id="Settings.SystemDefault" translate="yes" xml:space="preserve">
           <source>System default</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Стандартні параметри системи</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">За параметрами системи</target>
         </trans-unit>
         <trans-unit id="About.Dependencies" translate="yes" xml:space="preserve">
           <source>Dependencies</source>
@@ -306,11 +306,11 @@
         </trans-unit>
         <trans-unit id="Enums.ElementTheme.Dark" translate="yes" xml:space="preserve">
           <source>Dark</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Темний</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Темна</target>
         </trans-unit>
         <trans-unit id="Enums.ElementTheme.Light" translate="yes" xml:space="preserve">
           <source>Light</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Світло</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Світла</target>
         </trans-unit>
         <trans-unit id="Enums.TopBarVisibility.AutoHide" translate="yes" xml:space="preserve">
           <source>Auto-hide</source>
@@ -318,11 +318,11 @@
         </trans-unit>
         <trans-unit id="Enums.TopBarVisibility.Collapsed" translate="yes" xml:space="preserve">
           <source>Collapsed</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Згорнуто</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Згорнути</target>
         </trans-unit>
         <trans-unit id="Enums.TopBarVisibility.Visible" translate="yes" xml:space="preserve">
           <source>Visible</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Видимий</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Видима</target>
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.CapsLock" translate="yes" xml:space="preserve">
           <source>Caps lock</source>
@@ -330,19 +330,19 @@
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.Insert" translate="yes" xml:space="preserve">
           <source>Insert</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Вставити</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Insert</target>
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.NumLock" translate="yes" xml:space="preserve">
           <source>Num lock</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Num блокування</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Num lock</target>
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.ScrollLock" translate="yes" xml:space="preserve">
           <source>Scroll lock</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Блокування прокрутки</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Scroll lock</target>
         </trans-unit>
         <trans-unit id="LockKeysFlyoutHelper.SelectKeyDescription" translate="yes" xml:space="preserve">
           <source>Select the keys you want to show the flyout for</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Виберіть клавіші, для яких потрібно відобразити</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Виберіть клавіші, для яких потрібно відобразити вильоти</target>
         </trans-unit>
         <trans-unit id="Settings.Appearance" translate="yes" xml:space="preserve">
           <source>Appearance</source>
@@ -350,15 +350,15 @@
         </trans-unit>
         <trans-unit id="Settings.EnableModule.Airplane" translate="yes" xml:space="preserve">
           <source>Enable Airplane mode Flyout</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Увімкнути виліт режиму польоту в режимі польоту</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Увімкнути Виліт для режиму "У літаку"</target>
         </trans-unit>
         <trans-unit id="Settings.EnableModule.Audio" translate="yes" xml:space="preserve">
           <source>Enable Audio Flyout</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Увімкнути виліт звуку</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Увімкнути виліт для звуку</target>
         </trans-unit>
         <trans-unit id="Settings.EnableModule.Brightness" translate="yes" xml:space="preserve">
           <source>Enable Brightness Flyout</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Увімкнути виліт яскравості</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Увімкнути виліт для яскравості</target>
         </trans-unit>
         <trans-unit id="Settings.EnableModule.LockKeys" translate="yes" xml:space="preserve">
           <source>Enable Lock keys Flyout</source>
@@ -366,11 +366,11 @@
         </trans-unit>
         <trans-unit id="Settings.FlyoutTheme" translate="yes" xml:space="preserve">
           <source>Flyout theme</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Тема "Виліт"</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Тема Вильотів</target>
         </trans-unit>
         <trans-unit id="Settings.FlyoutTimeout" translate="yes" xml:space="preserve">
           <source>Flyout timeout (ms)</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Час очікування виліту (мс)</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Час очікування Вильотів (мс)</target>
         </trans-unit>
         <trans-unit id="Settings.Left" translate="yes" xml:space="preserve">
           <source>Left</source>
@@ -398,11 +398,11 @@
         </trans-unit>
         <trans-unit id="Settings.Off" translate="yes" xml:space="preserve">
           <source>Off</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Вимкнуто</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Вимкнено</target>
         </trans-unit>
         <trans-unit id="Settings.On" translate="yes" xml:space="preserve">
           <source>On</source>
-          <target state="needs-review-translation" state-qualifier="tm-suggestion">Увімкнуто</target>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ввімкнено</target>
         </trans-unit>
         <trans-unit id="Settings.AppTheme" translate="yes" xml:space="preserve">
           <source>App Theme</source>
@@ -418,7 +418,7 @@
         </trans-unit>
         <trans-unit id="Settings.ResetToDefaults" translate="yes" xml:space="preserve">
           <source>Reset all settings to defaults</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Скидання всіх настройок за замовчуванням</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Скинути всі настройки до стандартних</target>
         </trans-unit>
         <trans-unit id="Settings.Personalization" translate="yes" xml:space="preserve">
           <source>Personalization</source>
@@ -430,7 +430,7 @@
         </trans-unit>
         <trans-unit id="Settings.RestartRequired" translate="yes" xml:space="preserve">
           <source>Restart required to apply some changes</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Перезавантаження, необхідне для застосування деяких змін</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Для застосування деяких змін необхідне перезавантаження</target>
         </trans-unit>
       </group>
     </body>
